@@ -1,0 +1,30 @@
+JS:
+- Variable declaration: let /  var
+- function and its type 
+- Array 
+- Hoisting
+- Asynchronous programming ( Promise / async / wait etc)
+- Calling API (Fetch)
+
+NodeJS:
+
+- modules
+- external packages
+- express
+- Use case (API, microservice etc)
+- use package.json
+- Application configuration / setting
+- Some basic commands (package installation etc)
+- Basic project architecture
+
+Database (MongoDB):
+
+- Setup / connect DB with NodeJS
+- Schema for database / collection
+- Basic DB operations (CRUD)
+- Some external packages like mongoose
+- Basic level of indexing
+- Basic import / export
+
+
+Shallow copy / deep copy
