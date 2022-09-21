@@ -1,1 +1,3 @@
 git 
+branch1 Renam = oldbranchRename, 
+branch2 Rename = Rename 
